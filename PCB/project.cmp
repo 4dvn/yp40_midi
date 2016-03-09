@@ -1,0 +1,185 @@
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = Sat 02 Mar 2013 04:11:21 PM CET
+
+BeginCmp
+TimeStamp = /51310939;
+Reference = C1;
+ValeurCmp = 22p;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5131094B;
+Reference = C2;
+ValeurCmp = 22p;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5130FDEB;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5131328E;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5130FB83;
+Reference = C5;
+ValeurCmp = 100u;
+IdModule  = SMD403;
+EndCmp
+
+BeginCmp
+TimeStamp = /5130FB66;
+Reference = C6;
+ValeurCmp = 100u;
+IdModule  = SMD403;
+EndCmp
+
+BeginCmp
+TimeStamp = /51320B12;
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51312DD9;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /513101F8;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51310544;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5131298E;
+Reference = K3;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /51152DC7;
+Reference = P1;
+ValeurCmp = CONN_15X2;
+IdModule  = PIN_ARRAY_15X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51311337;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /51311944;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51312C90;
+Reference = P4;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /513130A3;
+Reference = P5;
+ValeurCmp = CONN_3X2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5130FAF5;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5132166F;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /51321674;
+Reference = P8;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /51321677;
+Reference = P9;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5132167A;
+Reference = P10;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5130FDD2;
+Reference = R1;
+ValeurCmp = 100k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51312DEF;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /511569E8;
+Reference = U1;
+ValeurCmp = STM32_F103C8T6;
+IdModule  = lqfp48;
+EndCmp
+
+BeginCmp
+TimeStamp = /5130FABB;
+Reference = U2;
+ValeurCmp = 78L33_SO8;
+IdModule  = SO8E;
+EndCmp
+
+BeginCmp
+TimeStamp = /51310900;
+Reference = X1;
+ValeurCmp = 8MHz;
+IdModule  = SMDQZ;
+EndCmp
+
+EndListe
